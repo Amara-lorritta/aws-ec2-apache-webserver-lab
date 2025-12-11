@@ -20,7 +20,7 @@ Publishing a custom HTML page
 Validating the web server using the instance’s public IPv4 address
 
 ## **Architecture Diagram**
-<img width="611" height="421" alt="image" src="https://github.com/user-attachments/assets/8e74d34b-46b6-44cb-b785-17f1a41468da" />
+<img width="1000" height="400" alt="image" src="https://github.com/user-attachments/assets/8e74d34b-46b6-44cb-b785-17f1a41468da" />
 
 ## **Implementation Steps**
 ```bash
@@ -136,8 +136,10 @@ systemctl restart httpd
 
 ```
 ## **Screnshoot**
-<img width="1240" height="306" alt="Web server up and running" src="https://github.com/user-attachments/assets/d3396bc1-c80b-4099-b6fa-f4fc86aa03cb" />
-<img width="1326" height="392" alt="web server running" src="https://github.com/user-attachments/assets/259aab8d-1969-496e-9d84-e76012540620" />
+<img width="1326" height="392" alt="web server running" src="https://github.com/user-attachments/assets/519dea5d-9691-40c5-9f37-ad8acb02dbe3" />
+
+<img width="1240" height="306" alt="Web server up and running" src="https://github.com/user-attachments/assets/ec0fde69-fe5c-452f-8a3d-d4debd0583b0" />
+
 
 ## **What Actually Happened**
 
@@ -152,4 +154,5 @@ After switching to the root user, I installed Apache, started it, and enabled it
 ## **Author**
 
 Amarachi Emeziem
+
 Cloud Support Engineer
